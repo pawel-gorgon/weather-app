@@ -1,0 +1,16 @@
+.idea
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+.DS_Store
+node_modules
+*.log
+*.lock
+yarn-lock.json
+
+build
