@@ -2,7 +2,7 @@
 ## About Weather App
 
 This is a simple responsive weather app available on desktop, tablet and mobile devices.
-It was built on top of React (17.0.2), Hooks and Redux Toolkit.
+It was built on top of React (17.0.2), Hooks, Redux Toolkit and Jest for unit test.
 It leverages the MetaWeather API which is available here: https://www.metaweather.com/api
 
 ## How to install, run, test and deploy
@@ -35,4 +35,5 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ### `yarn deploy`
 
 Deploys the app to the GitHub Pages.
+Open [https://pawel-gorgon.github.io/weather-app](https://pawel-gorgon.github.io/weather-app) to view it in the browser.
 
